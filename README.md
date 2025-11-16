@@ -103,14 +103,6 @@ python src/downstream_tasks/career_guidance.py
 - **Job Descriptions:** 500+ unique positions
 - **Languages:** Vietnamese, English
 
-## Features
-
-✅ Skill extraction from CVs
-✅ Job requirement summarization
-✅ Intelligent skill-to-requirement matching
-✅ Resume scoring and evaluation
-✅ Career path recommendations
-✅ Multi-language support (Vietnamese, English)
 
 ## Installation
 
