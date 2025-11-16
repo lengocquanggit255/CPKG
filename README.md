@@ -1,6 +1,7 @@
 
 ## Overview
 CPKG (Career Path Knowledge Graph) is an AI-powered system designed to match CVs with job descriptions through skill extraction, requirement summarization, and intelligent matching algorithms.
+<img width="5376" height="3024" alt="cpkg4" src="https://github.com/user-attachments/assets/929da083-6b0c-4812-91bc-71dbef9cdb63" />
 
 ## Project Structure
 
