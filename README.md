@@ -98,12 +98,6 @@ python src/downstream_tasks/resume_evaluation.py
 python src/downstream_tasks/career_guidance.py
 ```
 
-## Dataset Statistics
-
-- **Requirement-Skill Matching:** 1000+ pairs
-- **Job Descriptions:** 500+ unique positions
-- **Languages:** Vietnamese, English
-
 
 ## Installation
 
